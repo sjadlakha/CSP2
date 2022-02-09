@@ -1,0 +1,15 @@
+/Users/sahajadlakha/Documents/DEV_ZONE/VisualStudioProjects/CSP2/LINQDemo/bin/Debug/net5.0/LINQDemo.deps.json
+/Users/sahajadlakha/Documents/DEV_ZONE/VisualStudioProjects/CSP2/LINQDemo/bin/Debug/net5.0/LINQDemo.runtimeconfig.json
+/Users/sahajadlakha/Documents/DEV_ZONE/VisualStudioProjects/CSP2/LINQDemo/bin/Debug/net5.0/LINQDemo.runtimeconfig.dev.json
+/Users/sahajadlakha/Documents/DEV_ZONE/VisualStudioProjects/CSP2/LINQDemo/bin/Debug/net5.0/LINQDemo.dll
+/Users/sahajadlakha/Documents/DEV_ZONE/VisualStudioProjects/CSP2/LINQDemo/bin/Debug/net5.0/ref/LINQDemo.dll
+/Users/sahajadlakha/Documents/DEV_ZONE/VisualStudioProjects/CSP2/LINQDemo/bin/Debug/net5.0/LINQDemo.pdb
+/Users/sahajadlakha/Documents/DEV_ZONE/VisualStudioProjects/CSP2/LINQDemo/obj/Debug/net5.0/LINQDemo.csproj.AssemblyReference.cache
+/Users/sahajadlakha/Documents/DEV_ZONE/VisualStudioProjects/CSP2/LINQDemo/obj/Debug/net5.0/LINQDemo.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sahajadlakha/Documents/DEV_ZONE/VisualStudioProjects/CSP2/LINQDemo/obj/Debug/net5.0/LINQDemo.AssemblyInfoInputs.cache
+/Users/sahajadlakha/Documents/DEV_ZONE/VisualStudioProjects/CSP2/LINQDemo/obj/Debug/net5.0/LINQDemo.AssemblyInfo.cs
+/Users/sahajadlakha/Documents/DEV_ZONE/VisualStudioProjects/CSP2/LINQDemo/obj/Debug/net5.0/LINQDemo.csproj.CoreCompileInputs.cache
+/Users/sahajadlakha/Documents/DEV_ZONE/VisualStudioProjects/CSP2/LINQDemo/obj/Debug/net5.0/LINQDemo.dll
+/Users/sahajadlakha/Documents/DEV_ZONE/VisualStudioProjects/CSP2/LINQDemo/obj/Debug/net5.0/ref/LINQDemo.dll
+/Users/sahajadlakha/Documents/DEV_ZONE/VisualStudioProjects/CSP2/LINQDemo/obj/Debug/net5.0/LINQDemo.pdb
+/Users/sahajadlakha/Documents/DEV_ZONE/VisualStudioProjects/CSP2/LINQDemo/obj/Debug/net5.0/LINQDemo.genruntimeconfig.cache

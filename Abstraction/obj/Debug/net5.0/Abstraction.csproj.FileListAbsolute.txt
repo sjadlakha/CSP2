@@ -1,0 +1,15 @@
+/Users/sahajadlakha/Documents/DEV_ZONE/VisualStudioProjects/CSP2/Abstraction/bin/Debug/net5.0/Abstraction.deps.json
+/Users/sahajadlakha/Documents/DEV_ZONE/VisualStudioProjects/CSP2/Abstraction/bin/Debug/net5.0/Abstraction.runtimeconfig.json
+/Users/sahajadlakha/Documents/DEV_ZONE/VisualStudioProjects/CSP2/Abstraction/bin/Debug/net5.0/Abstraction.runtimeconfig.dev.json
+/Users/sahajadlakha/Documents/DEV_ZONE/VisualStudioProjects/CSP2/Abstraction/bin/Debug/net5.0/Abstraction.dll
+/Users/sahajadlakha/Documents/DEV_ZONE/VisualStudioProjects/CSP2/Abstraction/bin/Debug/net5.0/ref/Abstraction.dll
+/Users/sahajadlakha/Documents/DEV_ZONE/VisualStudioProjects/CSP2/Abstraction/bin/Debug/net5.0/Abstraction.pdb
+/Users/sahajadlakha/Documents/DEV_ZONE/VisualStudioProjects/CSP2/Abstraction/obj/Debug/net5.0/Abstraction.csproj.AssemblyReference.cache
+/Users/sahajadlakha/Documents/DEV_ZONE/VisualStudioProjects/CSP2/Abstraction/obj/Debug/net5.0/Abstraction.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sahajadlakha/Documents/DEV_ZONE/VisualStudioProjects/CSP2/Abstraction/obj/Debug/net5.0/Abstraction.AssemblyInfoInputs.cache
+/Users/sahajadlakha/Documents/DEV_ZONE/VisualStudioProjects/CSP2/Abstraction/obj/Debug/net5.0/Abstraction.AssemblyInfo.cs
+/Users/sahajadlakha/Documents/DEV_ZONE/VisualStudioProjects/CSP2/Abstraction/obj/Debug/net5.0/Abstraction.csproj.CoreCompileInputs.cache
+/Users/sahajadlakha/Documents/DEV_ZONE/VisualStudioProjects/CSP2/Abstraction/obj/Debug/net5.0/Abstraction.dll
+/Users/sahajadlakha/Documents/DEV_ZONE/VisualStudioProjects/CSP2/Abstraction/obj/Debug/net5.0/ref/Abstraction.dll
+/Users/sahajadlakha/Documents/DEV_ZONE/VisualStudioProjects/CSP2/Abstraction/obj/Debug/net5.0/Abstraction.pdb
+/Users/sahajadlakha/Documents/DEV_ZONE/VisualStudioProjects/CSP2/Abstraction/obj/Debug/net5.0/Abstraction.genruntimeconfig.cache

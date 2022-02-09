@@ -1,0 +1,15 @@
+/Users/sahajadlakha/Documents/DEV_ZONE/VisualStudioProjects/CSP2/Interfaces/bin/Debug/net5.0/Interfaces.deps.json
+/Users/sahajadlakha/Documents/DEV_ZONE/VisualStudioProjects/CSP2/Interfaces/bin/Debug/net5.0/Interfaces.runtimeconfig.json
+/Users/sahajadlakha/Documents/DEV_ZONE/VisualStudioProjects/CSP2/Interfaces/bin/Debug/net5.0/Interfaces.runtimeconfig.dev.json
+/Users/sahajadlakha/Documents/DEV_ZONE/VisualStudioProjects/CSP2/Interfaces/bin/Debug/net5.0/Interfaces.dll
+/Users/sahajadlakha/Documents/DEV_ZONE/VisualStudioProjects/CSP2/Interfaces/bin/Debug/net5.0/ref/Interfaces.dll
+/Users/sahajadlakha/Documents/DEV_ZONE/VisualStudioProjects/CSP2/Interfaces/bin/Debug/net5.0/Interfaces.pdb
+/Users/sahajadlakha/Documents/DEV_ZONE/VisualStudioProjects/CSP2/Interfaces/obj/Debug/net5.0/Interfaces.csproj.AssemblyReference.cache
+/Users/sahajadlakha/Documents/DEV_ZONE/VisualStudioProjects/CSP2/Interfaces/obj/Debug/net5.0/Interfaces.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sahajadlakha/Documents/DEV_ZONE/VisualStudioProjects/CSP2/Interfaces/obj/Debug/net5.0/Interfaces.AssemblyInfoInputs.cache
+/Users/sahajadlakha/Documents/DEV_ZONE/VisualStudioProjects/CSP2/Interfaces/obj/Debug/net5.0/Interfaces.AssemblyInfo.cs
+/Users/sahajadlakha/Documents/DEV_ZONE/VisualStudioProjects/CSP2/Interfaces/obj/Debug/net5.0/Interfaces.csproj.CoreCompileInputs.cache
+/Users/sahajadlakha/Documents/DEV_ZONE/VisualStudioProjects/CSP2/Interfaces/obj/Debug/net5.0/Interfaces.dll
+/Users/sahajadlakha/Documents/DEV_ZONE/VisualStudioProjects/CSP2/Interfaces/obj/Debug/net5.0/ref/Interfaces.dll
+/Users/sahajadlakha/Documents/DEV_ZONE/VisualStudioProjects/CSP2/Interfaces/obj/Debug/net5.0/Interfaces.pdb
+/Users/sahajadlakha/Documents/DEV_ZONE/VisualStudioProjects/CSP2/Interfaces/obj/Debug/net5.0/Interfaces.genruntimeconfig.cache

@@ -1,0 +1,36 @@
+﻿<Properties StartupConfiguration="{F2DBBF42-EB3D-4B01-A380-087959EA76BB}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="LINQDemo/Program.cs">
+    <Files>
+      <File FileName="Events/Clock.cs" Line="38" Column="54" />
+      <File FileName="Events/VisibleClass.cs" Line="7" Column="10" />
+      <File FileName="Events/Logger.cs" Line="28" Column="19" />
+      <File FileName="Events/Program.cs" Line="8" Column="10" />
+      <File FileName="LINQDemo/Program.cs" Line="9" Column="13" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="CSP2" expanded="True">
+            <Node name="Delegates" expanded="True" />
+            <Node name="Events" expanded="True" />
+            <Node name="LINQDemo" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.CSP2 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.Delegates FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.Interfaces PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Events PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.Abstraction PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.LINQDemo FirstBuild="True" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

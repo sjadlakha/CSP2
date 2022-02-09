@@ -1,0 +1,15 @@
+/Users/sahajadlakha/Documents/DEV_ZONE/VisualStudioProjects/CSP2/Events/bin/Debug/net5.0/Events.deps.json
+/Users/sahajadlakha/Documents/DEV_ZONE/VisualStudioProjects/CSP2/Events/bin/Debug/net5.0/Events.runtimeconfig.json
+/Users/sahajadlakha/Documents/DEV_ZONE/VisualStudioProjects/CSP2/Events/bin/Debug/net5.0/Events.runtimeconfig.dev.json
+/Users/sahajadlakha/Documents/DEV_ZONE/VisualStudioProjects/CSP2/Events/bin/Debug/net5.0/Events.dll
+/Users/sahajadlakha/Documents/DEV_ZONE/VisualStudioProjects/CSP2/Events/bin/Debug/net5.0/ref/Events.dll
+/Users/sahajadlakha/Documents/DEV_ZONE/VisualStudioProjects/CSP2/Events/bin/Debug/net5.0/Events.pdb
+/Users/sahajadlakha/Documents/DEV_ZONE/VisualStudioProjects/CSP2/Events/obj/Debug/net5.0/Events.csproj.AssemblyReference.cache
+/Users/sahajadlakha/Documents/DEV_ZONE/VisualStudioProjects/CSP2/Events/obj/Debug/net5.0/Events.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sahajadlakha/Documents/DEV_ZONE/VisualStudioProjects/CSP2/Events/obj/Debug/net5.0/Events.AssemblyInfoInputs.cache
+/Users/sahajadlakha/Documents/DEV_ZONE/VisualStudioProjects/CSP2/Events/obj/Debug/net5.0/Events.AssemblyInfo.cs
+/Users/sahajadlakha/Documents/DEV_ZONE/VisualStudioProjects/CSP2/Events/obj/Debug/net5.0/Events.csproj.CoreCompileInputs.cache
+/Users/sahajadlakha/Documents/DEV_ZONE/VisualStudioProjects/CSP2/Events/obj/Debug/net5.0/Events.dll
+/Users/sahajadlakha/Documents/DEV_ZONE/VisualStudioProjects/CSP2/Events/obj/Debug/net5.0/ref/Events.dll
+/Users/sahajadlakha/Documents/DEV_ZONE/VisualStudioProjects/CSP2/Events/obj/Debug/net5.0/Events.pdb
+/Users/sahajadlakha/Documents/DEV_ZONE/VisualStudioProjects/CSP2/Events/obj/Debug/net5.0/Events.genruntimeconfig.cache
